@@ -1,4 +1,4 @@
-# -.
+# Massiv Generiruem 4isla
 простой массив и генерируются в массиве случайные числа
 #include <iostream>
 #include"time.h"
